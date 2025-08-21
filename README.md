@@ -1,1 +1,1 @@
-# Kỹ thuật lập trình_Đỗ Huỳnh Đông_31231020990
+# KTLTsp_Đỗ Huỳnh Đông_31231020990
