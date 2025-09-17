@@ -1,2 +1,2 @@
 # Kỹ thuật lập trình Stata Python
-## Đỗ Huỳnh Đông_31231020990
+Đỗ Huỳnh Đông_31231020990
